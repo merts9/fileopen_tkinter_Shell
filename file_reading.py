@@ -1,4 +1,4 @@
-__author__ = "Uni-Nummer: Katharina Mepq, 6621331: Lucas Laub"
+__author__ = "Uni-Nummer: 6593731: Ekaterina Merts, 6621331: Lucas Laub"
 __copyright__ = "Copyright 2017/2018 – EPR-Goethe-Uni"
 __credits__ = "No thanks"
 __email__ = "merts.ekaterina@gmail.com, l.g.laub@gmx.de"
